@@ -25,3 +25,7 @@
 4、安装dokcer版本【断网执行】
 
 >  进入 Windows PowerShell 运行  scoop-dev-docker-only.ps1
+=======
+
+v1.0
+>>>>>>> 1.0.X
