@@ -32,7 +32,7 @@ scoop install sourcetree
 
 #DB客户端
 #scoop install dbeaver
-scoop install DataGrip
+#scoop install DataGrip
 
 
 # Virtualbox / Docker
@@ -45,14 +45,15 @@ scoop install docker
 scoop install draw.io
 
 # idea
-scoop install IntelliJ-IDEA
-sudo scoop install nerd-fonts/JetBrains-Mono
-#scoop install extras/jetbrains-toolbox
-#scoop install IntelliJ-IDEA-Ultimate
+scoop install extras/jetbrains-toolbox
+scoop install nerd-fonts/JetBrains-Mono
 
 # python and tools
 scoop install python
 pip install httpie
+
+# python集成开发环境
+scoop install extras/anaconda3
 
 #everything全文搜索
 scoop install everything
@@ -66,6 +67,8 @@ scoop install q-dir
 
 #MobaXterm运程终端
 scoop install mobaxterm
+
+
 
 
 
